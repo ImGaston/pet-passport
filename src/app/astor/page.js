@@ -1,6 +1,6 @@
 import React from 'react';
 import astor from '../../../public/astor.jpg';
-import Profile from '../components/Profile/profile';
+import Profile from '../components/Profile';
 
 const Astor = () => {
   return (
