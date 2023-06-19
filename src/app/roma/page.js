@@ -1,6 +1,6 @@
 import React from 'react';
 import roma from '../../../public/roma.jpeg';
-import Profile from '../../components/Profile/profile';
+import Profile from '../components/Profile/profile';
 
 const Roma = () => {
   return (
